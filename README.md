@@ -1,9 +1,5 @@
-## Olá, me chamo Victória Emanuella 
+## Olá, me chamo Victória Emanuella!
 
-## Conhecimentos e Tecnologias
-
-
-## Redes Sociais e Contatos
 
 
 
