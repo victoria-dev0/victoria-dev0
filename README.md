@@ -1,4 +1,11 @@
-## Hi there 👋
+## Olá, me chamo Victória Emanuella 
+
+## Conhecimentos e Tecnologias
+
+
+## Redes Sociais e Contatos
+
+
 
 <!--
 **victoria-dev0/victoria-dev0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
