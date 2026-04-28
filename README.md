@@ -55,10 +55,10 @@ Atuar como Desenvolvedora Júnior
 
 ## 📂Projetos
 - "[Entrelinhas](https://github.com/victoria-dev0/entrelinhas)"
-  - Entrelinhas é um site busca conectar leitores e incentivar o hábito de leitura.
+  - Entrelinhas é um site que tem como objetivo conectar leitores e incentivar o hábito de leitura.
   - Semelhante a uma rede social, ele permite a interação entre leitores de todo o mundo que desejem compartilhas suas ideias e opniões sobre assuntos relacionados ao universo literário.
 
 - "[RosaIA](https://github.com/victoria-dev0/rosa-ia)"
-  - O RosaIA é um Chatbot interativo que combina inteligência artificial com uma plataforma de apoio à saúde, oferecendo informações claras, seguras e atualizadas sobre o câncer de mama.
+  - O projeto RosaIA é um Chatbot interativo que combina inteligência artificial com uma plataforma de apoio à saúde, oferecendo informações claras, seguras e atualizadas sobre o câncer de mama.
 
 
