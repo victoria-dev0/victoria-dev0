@@ -5,6 +5,7 @@ Me chamo Victória Emanuella, sou estudante universitária de Análise e Desenvo
 
 - Desenvolvedora Front-End, em evolução para Full Stack.
 - Tenho experiência prática em JavaScript, HTML, CSS, Python e SQL.
+- Tenho experiência em design de sites e prototipação com Figma.
 
 ## Objetivo profissional
 Atuar como Desenvolvedora Júnior 
