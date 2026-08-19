@@ -1,7 +1,7 @@
 # 👨🏻‍💻 Bem vindo!!
 **`Desenvolvedora Front-end`**
 
-Me chamo Victória Emanuella, sou estudante universitária de Análise e Desenvolvimento de Sistemas, pela Uniceplac. Gosto de aprender coisas novas, isso reflete na minha paixão por tecnologia e na busca por aperfeiçoar minhas habilidades.
+Me chamo Victória Emanuella, sou formada em Análise e Desenvolvimento de Sistemas e estudante de Engenharia de Software. Gosto de aprender coisas novas, isso reflete na minha paixão por tecnologia e na busca por aperfeiçoar minhas habilidades.
 
 - Desenvolvedora Front-End, em evolução para Full Stack.
 - Tenho experiência prática em JavaScript, HTML, CSS, Python e SQL.
